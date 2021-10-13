@@ -1,0 +1,147 @@
+body{
+  margin: 0;
+}
+.pic {
+  border-radius: 50%;
+  padding: 20px;
+  width: 400px;
+}
+
+h1{
+  font-family: 'Audiowide', cursive;
+  font-size: 450%;
+  color: #112031;
+}
+
+h2{
+  font-family: 'Noto Sans Mono', monospace;
+  font-size: 250%;
+}
+
+h3{
+  font-size: 250%;
+}
+
+h4{
+  font-weight: bold;
+  font-size: 200%;
+}
+
+.school{
+  border: 1px solid #ddd;
+  border-radius: 60%;
+  border-color: black;
+  padding: 5px;
+  position: relative;
+  width: 250px;
+}
+
+.computer{
+  border: 1px solid #ddd;
+  border-radius: 50%;
+  border-color: black;
+  padding: 5px;
+  position: relative;
+  width: 150px;
+}
+.chess{
+  border: 1px solid #ddd;
+  border-radius: 50%;
+  border-color: black;
+  padding: 5px;
+  position: relative;
+  width: 150px;
+}
+.basketball{
+  border: 1px solid #ddd;
+  border-radius: 50%;
+  border-color: black;
+  padding: 5px;
+  position: relative;
+  width: 150px;
+}
+.middle-container{
+  padding: 5px;
+  text-align: center;
+  background-color: #345B63 ;
+}
+
+.second-container{
+  padding: 5px;
+  text-align: center;
+  background-color: #345B63 ;
+}
+
+.bottom-container{
+  padding: 5px;
+  text-align: center;
+  background-color: #152D35;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  color: white;
+}
+
+.fa-twitter {
+  color: white;
+}
+
+.fa-instagram {
+  color: white;
+}
+
+.btn {
+   background: #5A5A5A;
+   background-image: -webkit-linear-gradient(top, #5A5A5A, #555555);
+   background-image: -moz-linear-gradient(top, #5A5A5A, #555555);
+   background-image: -ms-linear-gradient(top, #5A5A5A, #555555);
+   background-image: -o-linear-gradient(top, #5A5A5A, #555555);
+   background-image: -webkit-gradient(to bottom, #5A5A5A, #555555);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: 400;
+   padding: 15px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #FFFFFF 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #000000 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.credit{
+  color: white;
+}
